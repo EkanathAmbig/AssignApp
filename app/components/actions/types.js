@@ -1,0 +1,1 @@
+export const EMP_DATA ='employee_list_data';
